@@ -1,5 +1,5 @@
 # Analysis-of-Myntra-Apparel
-
+    
 Problem Statement:
 You are working at Myntra, a leading online fashion retailer. The management has asked you to analyze a dataset of various apparel items to gain insights into pricing, discounts, ratings, and available sizes.
 Project Questions
@@ -20,3 +20,4 @@ C. Data Retrieval and Lookup
 Use VLOOKUP/XLOOKUP to find the product brand, price, and rating of the product with Product_id "11226634".
 Find the "DiscountPrice" for the product with the Product ID "6744434" using the INDEX and MATCH functions.
 Utilize nested xlookup to find any column’s detail of a product with it’s product id.
+
